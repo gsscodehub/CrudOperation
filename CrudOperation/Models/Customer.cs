@@ -10,6 +10,9 @@ namespace CrudOperation.Models
         public string? FirstName { get; set; }
         [Required]
         public string? MiddleName { get; set; }
+       //     public string? MiddleName1 { get; set; }
+
+        
         [Required]
         public string? LastName { get; set; }
         [Required]
